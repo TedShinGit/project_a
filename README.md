@@ -1,3 +1,3 @@
 # project_a
 
-Setting up new git rep on this new acc
+1. Setting up new git rep on this new acc
